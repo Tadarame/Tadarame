@@ -1,6 +1,5 @@
 # 💫 About Me:
-Sou um estudante de Engenharia de software com o sonho de Trabalhar na área de TI.
-Atualmente no 4 período de engenharia de software
+Sou estudante de engenharia de software, buscando meu primeiro emprego na área, tenho conhecimento em Laravel, Mysql e esudando Next.js, estou atualmente procurando me especializar na área, visando novos cursos e novas habilidades para me formar um bom profissional no futuro, hoje busco oportunidades para meu 1 emprego na área para adquirir experiencia e adentrar ainda mais nesse vasto mundo que é a tecnologia.
 
 
 ## 🌐 Socials:
