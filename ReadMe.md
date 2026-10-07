@@ -18,4 +18,7 @@ Sou estudante de engenharia de software, buscando meu primeiro emprego na área,
 ---
 [![](https://komarev.com/ghpvc/?username=Tadarame&icon=3&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
