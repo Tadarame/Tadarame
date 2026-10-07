@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou um estudante de Engenharia de software 
+Sou um estudante de Engenharia de software com o sonho de Trabalhar na área de TI.
+Atualmente no 4 período de engenharia de software
 
 
 ## 🌐 Socials:
