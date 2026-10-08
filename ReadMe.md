@@ -10,7 +10,9 @@ Sou estudante de engenharia de software, buscando meu primeiro emprego na área,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tadarame&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Tadarame&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tadarame&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -18,7 +20,4 @@ Sou estudante de engenharia de software, buscando meu primeiro emprego na área,
 ---
 [![](https://komarev.com/ghpvc/?username=Tadarame&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D" />
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
